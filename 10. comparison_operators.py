@@ -2,6 +2,8 @@
 full_name = "words of peopl"
 if full_name == "Mark" + " " + "Myers":
     print("camt go")
+else:
+    print("this was a mistake that i printed")
 ## these are all the same
 #x + y = a-b
 #f  x + y == a-b:
