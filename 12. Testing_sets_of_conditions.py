@@ -10,3 +10,5 @@ elif weight > 10 and time > 6:
 else:
     status ="Both of these conditions dont match at all"
     print(status)
+    
+    #chapter 12
