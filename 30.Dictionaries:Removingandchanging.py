@@ -4,6 +4,7 @@ del dictstoadd['Finland']
 print(dictstoadd)
 ##Changing dictionary values
 dictstoadd["Norway"] = 100
+dictstoadd['scene']  =  20
 print(dictstoadd)
 
 
